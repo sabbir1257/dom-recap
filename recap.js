@@ -9,7 +9,15 @@
 3. dynamically add element to the dom: document.createElement
    3-1: set value to the innerHTML
 
-4. get value from a dom element 
-  4-1: use innerText (h1, p, h5, div, span, strong)
-  4-2: use value (input , textAreaf)
-*/ 
+4. get and set value from/to a dom element 
+   4-1: use innerText (h1, p, h5, div, span, strong)
+   4-2: use value (input , textAreaf)
+
+5. add event lister (event, textArea)
+   5-1: click, focus, blur , onchange, keyup
+   5-2: addEventListener onclick="myHandler()"
+
+6. use function to reduce duplicate code
+
+7. event bubble and event delegate 
+   */ 
